@@ -1,0 +1,19 @@
+[
+	{ "uhandle": "up", "instant": "2015/01/10", "statuses": 100, "followers": 100, "following": 100 },
+	{ "uhandle": "up", "instant": "2015/01/11", "statuses": 110, "followers": 110, "following": 110 },
+	{ "uhandle": "up", "instant": "2015/01/12", "statuses": 120, "followers": 120, "following": 120 },
+	{ "uhandle": "up", "instant": "2015/01/13", "statuses": 130, "followers": 130, "following": 130 },
+	{ "uhandle": "up", "instant": "2015/01/14", "statuses": 140, "followers": 140, "following": 140 },
+
+	{ "uhandle": "down", "instant": "2015/01/10", "statuses": 10, "followers": 10, "following": 10 },
+	{ "uhandle": "down", "instant": "2015/01/11", "statuses": 11, "followers": 11, "following": 11 },
+	{ "uhandle": "down", "instant": "2015/01/12", "statuses": 12, "followers": 12, "following": 12 },
+	{ "uhandle": "down", "instant": "2015/01/13", "statuses": 13, "followers": 13, "following": 13 },
+	{ "uhandle": "down", "instant": "2015/01/14", "statuses": 14, "followers": 14, "following": 14 }
+]
+
+//down
+//top
+//bottom
+//strange
+//charm
