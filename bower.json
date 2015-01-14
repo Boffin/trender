@@ -1,0 +1,21 @@
+{
+  "name": "trender",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Boffin/trender",
+  "authors": [
+    "Boffin <boffin13@gmail.com>"
+  ],
+  "description": "Trends visualizer",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
