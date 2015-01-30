@@ -1,8 +1,40 @@
 #canvas {
-    border: 3px solid red;
     position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
+    top: 25px;
+    bottom: 25px;
+    left: 25px;
+    right: 25px;
+}
+
+text {
+    font: 10px sans-serif;
+}
+
+.dot {
+    stroke: #000;
+}
+
+.axis path, .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.label {
+    fill: #777;
+}
+
+.year.label {
+    font: 500 196px "Helvetica Neue";
+    fill: #ddd;
+}
+
+.year.label.active {
+    fill: #aaa;
+}
+
+.overlay {
+    fill: none;
+    pointer-events: all;
+    cursor: ew-resize;
 }
